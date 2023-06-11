@@ -1,0 +1,12 @@
+Java HashMap Interview Questions:
+
+
+1.How does put() method of HashMap works in Java?
+Answer : On hashing principle
+
+<key,value> 
+a hashcode will be created 
+
+
+
+2.What is the requirement for an object ot be used as key or value in HashMap?
